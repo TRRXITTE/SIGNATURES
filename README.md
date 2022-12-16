@@ -7,11 +7,11 @@ Integration and development Team
 
 RSA4096 FINGERPRINT: 9A9F 4ABE 01A7 CC6D 0474  035D 7530 2358 8E03 0016
 
------BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: Benutzer-ID: TRRXITTE Int., incorporate | integration@trrxitte.com
-Comment: Typ: 4096-bit RSA 9A9F 4ABE 01A7 CC6D 0474  035D 7530 2358 8E03 0016
-Comment: Verwendung: Signieren, Verschlüsselung, Benutzerkennungen beglaubigen
-Comment: Fingerabdruck: 9A9F4ABE01A7CC6D0474035D753023588E030016
+-----BEGIN PGP PUBLIC KEY BLOCK-----  
+Comment: Benutzer-ID: TRRXITTE Int., incorporate | integration@trrxitte.com  
+Comment: Typ: 4096-bit RSA 9A9F 4ABE 01A7 CC6D 0474  035D 7530 2358 8E03 0016  
+Comment: Verwendung: Signieren, Verschlüsselung, Benutzerkennungen beglaubigen  
+Comment: Fingerabdruck: 9A9F4ABE01A7CC6D0474035D753023588E030016  
 
 mQINBGOaSGQBEADNjCwcqRJFgCMR+1ztbc7NxSI+tNYtFAn/FkprQA2IZKHMfzAQ
 3HI9vjdrjT2sJJwDzWtUpR02qm5vZu4IRoTVMIXNKh0oyNZCaTBoJI1LksBcA+/h
@@ -61,5 +61,5 @@ V1q26vMmr6+BWm5/DxLQ4FJtwMnjcW1vm2SGvgvkMQqtOmk8mxsxWgld5oBnyvEz
 R3GAr7TiXV9yNNy2szqeU4/Kv1rqxEVJokaGk6nyMDkeKFuIu6JOJ/k+Dl8Xb0wE
 UMgi3w7qiHAnBnIUmDl2Q3VRO2y9cDSzdYZaKpesqRS1f+Xrqc+GitP5/NnbGPMO
 CDEz07Tuy7bLsBBROv7L0mM=
-=dbcp
+=dbcp  
 -----END PGP PUBLIC KEY BLOCK-----
