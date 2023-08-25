@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/TRRXITTE/SIGNATURES/main/TRRXITTE.png)
 
-traaitt | TRRXITTE Int., incorporate
+TRRXITTE Int., incorporate
 integration@trrxitte.com
 
 Integration and development Team
