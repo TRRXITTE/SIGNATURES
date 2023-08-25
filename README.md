@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/TRRXITTE/SIGNATURES/main/TRRXITTE.png)
 
-TRRXITTE Int., incorporate
+TRRXITTE Int., incorporate  
 Integration and development Team
 
 RSA4096 FINGERPRINT: 9A9F 4ABE 01A7 CC6D 0474  035D 7530 2358 8E03 0016
